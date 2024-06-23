@@ -49,3 +49,8 @@
 [<img src="https://custom-icon-badges.demolab.com/badge/-visit%20Site%20for%20More-black?style=for-the-badge&logo=video&logoColor=white"/>](https://phans.dev/portfolio)
 
 #
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=prosperxd&show_icons=true&theme=gruvbox)
+
