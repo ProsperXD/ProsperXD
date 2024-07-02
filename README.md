@@ -9,13 +9,13 @@
 
 <p align='left'>
   <a href='https://discord.gg/phans'>
-    <img src='https://cdn.discordapp.com/attachments/1238332790492233768/1254558946757185706/discord.png?ex=6679ee91&is=66789d11&hm=7f84b6e1bd31d8f067af59ac476a7a6bb6a6c73e5b51d6380b7e4af5064bf869&' alt='Scoreboard MWRP'>
+    <img src='https://cdn.discordapp.com/attachments/1238332790492233768/1254558946757185706/discord.png?ex=66847a91&is=66832911&hm=8ce6a0f9f1715afe98d1fc2aff47665f0d306ab1c930e9085e09df546ba01862&' alt='Scoreboard MWRP'>
   </a>
   <a href='https://phans.dev'>
-    <img src='https://cdn.discordapp.com/attachments/1238332790492233768/1254559621813899284/phans_badge.png?ex=6679ef32&is=66789db2&hm=5f81078f8f8a9c24fdeba262543f57db870513e4f2f465e3acd204e3f8da86c5&' alt='Phans Badge'>
+    <img src='https://cdn.discordapp.com/attachments/1238332790492233768/1254559621813899284/phans_badge.png?ex=66847b32&is=668329b2&hm=d1394dc692a2c6740e14676f3057d837dcee63951c8e5103006265687305fde6&' alt='Phans Badge'>
   </a>
   <a href='https://store.phans.dev'>
-    <img src='https://cdn.discordapp.com/attachments/1238332790492233768/1254560701599449239/tebex.png?ex=6679f033&is=66789eb3&hm=8b97a35770f5de8d61c611ed08730b9e5c293715548b4e183a4b021ecb8b1448&' alt='Tebex'>
+    <img src='https://cdn.discordapp.com/attachments/1238332790492233768/1254560701599449239/tebex.png?ex=66847c33&is=66832ab3&hm=2919962c8115cdb019a360df3c10bc4e3d5cd72bf00e785bb99cff634545cbbf&' alt='Tebex'>
   </a>
 </p>
 
