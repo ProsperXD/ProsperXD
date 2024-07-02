@@ -43,13 +43,13 @@
     <img src="https://phans.dev/portfolio/Ganglb_premade.png" alt="Latest Portfolio Work" width="250" />
 </a>
 
-<a href="https://phans.dev/portfolio/Register_Premade.png">
-    <img src="https://phans.dev/portfolio/Register_Premade.png" alt="Latest Portfolio Work" width="250" />
+<a href="https://phans.dev/portfolio/Github_Permissions.png">
+    <img src="https://phans.dev/portfolio/Github_Permissions.png" alt="Latest Portfolio Work" width="250" />
 </a>
 
 
-<a href="https://phans.dev/portfolio/phans_huds.png">
-    <img src="https://phans.dev/portfolio/phans_huds.png" alt="Latest Portfolio Work" width="250" />
+<a href="https://phans.dev/portfolio/Scoreboard_Tebex.png">
+    <img src="https://phans.dev/portfolio/Scoreboard_Tebex.png" alt="Latest Portfolio Work" width="250" />
 </a>
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-visit%20Site%20for%20More-black?style=for-the-badge&logo=video&logoColor=white"/>](https://phans.dev/portfolio)
